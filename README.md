@@ -1,5 +1,5 @@
 # Python_MySQL
-How to connect and create database on MySQL phpMyAdmin using Python.
+
 Como conectar y crear bases de datos en MySQL phpMyAdmin usando Python.
 
 Primero, es necesario instalar el paquete conector de MySQL para Python. Para hacerlo, se debe ir al directorio "Scripts" de la instalación de Python.
